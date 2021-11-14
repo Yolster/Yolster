@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue.JS**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Yolster)
 
 - 💬 Ask me about **JavaScript**
 
